@@ -1,0 +1,4 @@
+#!/bin/bash
+# Jason Clark
+
+curl ipinfo.io/ip
